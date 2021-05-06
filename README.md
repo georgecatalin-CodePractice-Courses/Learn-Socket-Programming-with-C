@@ -1,7 +1,7 @@
 # Learn-Socket-Programming-with-C
 Start building networked applications in C programming language
 
-Code work associated with the online course: https://www.udemy.com/course/learn-socket-programming-in-c-from-scratch/
+Code work associated with the course: https://www.udemy.com/course/learn-socket-programming-in-c-from-scratch/
 
 ## Learning objectives ##
 * Understand Socket Programming in C
